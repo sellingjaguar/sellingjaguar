@@ -1,6 +1,6 @@
 ### ⚡ Who am I?
 
-Hello I'm Diogo and I'm a graduate Computer Scientist and aspiring Data Analyst with an interest in Game Dev and Task Automation
+Hello I'm Diogo and I'm a graduate Computer Scientist and aspiring Data Scientist with an interest in Game Dev and Task Automation
 
 ### 🛠️ My main tools
 
