@@ -10,9 +10,10 @@ Hello I'm Diogo and I'm a graduate Computer Scientist and aspiring Data Scientis
 
 ### 🌱 Currently learing
 
-- Data science
-- Data mining
-- Mobile development
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Data Vizualisation
 
 ### 📚 Projects
 
